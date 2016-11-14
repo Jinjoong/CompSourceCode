@@ -13,6 +13,8 @@ namespace updateTest
     public partial class Form1 : Form
     {
         private int add;
+
+        private int add2;
         public Form1()
         {
             InitializeComponent();
