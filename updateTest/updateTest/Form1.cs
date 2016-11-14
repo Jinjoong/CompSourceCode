@@ -12,9 +12,12 @@ namespace updateTest
 {
     public partial class Form1 : Form
     {
+        private int add;
         public Form1()
         {
             InitializeComponent();
+
+            
         }
     }
 }
