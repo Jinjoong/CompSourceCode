@@ -15,6 +15,7 @@ namespace updateTest
         private int add;
 
         private int add2;
+        private int add1122;
         public Form1()
         {
             InitializeComponent();

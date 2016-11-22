@@ -1,2 +1,9 @@
 c:\users\administrator\documents\visual studio 2015\Projects\updateTest\updateTest\bin\Debug\updateTest.exe.config
 D:\gitTT\updateTest\updateTest\bin\Debug\updateTest.exe.config
+D:\gitTT\updateTest\updateTest\obj\Debug\updateTest.csprojResolveAssemblyReference.cache
+D:\gitTT\updateTest\updateTest\obj\Debug\updateTest.Properties.Resources.resources
+D:\gitTT\updateTest\updateTest\obj\Debug\updateTest.csproj.GenerateResource.Cache
+D:\gitTT\updateTest\updateTest\bin\Debug\updateTest.exe
+D:\gitTT\updateTest\updateTest\bin\Debug\updateTest.pdb
+D:\gitTT\updateTest\updateTest\obj\Debug\updateTest.exe
+D:\gitTT\updateTest\updateTest\obj\Debug\updateTest.pdb
